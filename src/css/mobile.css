@@ -1,0 +1,38 @@
+/*导航区样式*/
+
+#mobileheader {
+    background: #f6f6f6;
+}
+
+#mobileheader header {
+    border-bottom: 1px solid #2db7f5;
+    height: 60px;
+}
+
+#mobileheader .logo img {
+    width: 60px;
+    height: 60px;
+}
+
+#mobileheader .logo span {
+    font-size: 40px;
+    margin-left: 5px;
+    color: #2db7f5;
+}
+
+#mobileheader i.anticon.anticon-login {
+    font-size: 35px;
+    float: right;
+    margin-top: 20px;
+    color: #2db7f5;
+}
+
+#mobileheader .linklogin {
+    font-size: 35px;
+    float: right;
+    color: #2db7f5;
+}
+
+#mobileheader i.anticon.anticon-inbox {
+    margin: 17px 10px 0 10px;
+}
