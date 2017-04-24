@@ -1,0 +1,130 @@
+/*导航区样式*/
+
+#mobileheader {
+    background: #f6f6f6;
+}
+
+#mobileheader header {
+    border-bottom: 1px solid #2db7f5;
+    height: 60px;
+}
+
+#mobileheader .logo img {
+    width: 60px;
+    height: 60px;
+}
+
+#mobileheader .logo span {
+    font-size: 32px;
+    margin-left: 5px;
+    color: #2db7f5;
+}
+
+#mobileheader i.anticon.anticon-login {
+    font-size: 35px;
+    margin-top: 20px;
+    color: #2db7f5;
+}
+
+i.anticon.anticon-user-add {
+    font-size: 35px;
+    float: right;
+    margin-top: 20px;
+    color: #2db7f5;
+}
+
+#mobileheader .linklogin {
+    font-size: 35px;
+    float: right;
+    color: #2db7f5;
+}
+
+#mobileheader i.anticon.anticon-inbox {
+    margin: 17px 5px;
+    color: #2db7f5;
+}
+
+
+/*下部列表区*/
+
+
+/*轮播图*/
+
+.m_runphoto {
+    width: 95%;
+    margin: 0 auto;
+    height: 200px;
+}
+
+.m_runphoto img {
+    width: 100%;
+    height: 200px;
+}
+
+
+/*新闻图片模块*/
+
+.m_imageblock {
+    width: 95%;
+    height: 100px;
+    margin: 5px auto;
+}
+
+.m_imageblock a {
+    display: block;
+    height: 100px;
+    float: left;
+}
+
+.m_imageblock img {
+    border-style: none;
+    width: 40%;
+    height: 100px;
+    float: left;
+}
+
+.m_custom-card {
+    float: left;
+    width: 55%;
+    font-size: 14px;
+}
+
+.m_custom-card h3 {
+    margin: 10px;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-all;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.m_custom-card p {
+    color: skyblue;
+    margin: 0 10px;
+}
+
+.m_backtop .ant-back-top {
+    right: 10px;
+}
+
+
+/*详情页字体设置*/
+
+.m_articleContainer {
+    font-size: 16px;
+    text-align: left;
+}
+
+
+/*注册页面*/
+
+.register_goback {
+    color: #fff;
+    font-size: 35px;
+}
+
+.m_main_register {
+    margin-top: 10px;
+}
